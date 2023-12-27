@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[TrackTrend: Predicting NJ Transit Train Delays around NYC](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Targeting a Housing Subsidy](/pdf/Clifford_Michael_Assignment5.html)
+<img src="images/SubsidyChart.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Predicting Housing Prices in Phliadelphia, PA](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
