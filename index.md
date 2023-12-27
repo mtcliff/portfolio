@@ -12,7 +12,7 @@
 <img src="images/SubsidyChart.png?raw=true"/>
 
 ---
-[Predicting Housing Prices in Phliadelphia, PA](http://example.com/)
+[Geospatial Risk Prediction of Vandalism and Criminal Mischief in Philadelphia](/pdf/HW4.html)
 <img src="images/mischief.PNG?raw=true"/>
 
 ---
