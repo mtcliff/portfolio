@@ -4,8 +4,8 @@
 
 ### Projects 
 
-[TrackTrend: Predicting NJ Transit Train Delays around NYC](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TrackTrend: Predicting NJ Transit Train Delays around NYC](/pdf/Final_Michael_Shuai.html)
+<img src="images/tracktrend.png?raw=true"/>
 
 ---
 [Targeting a Housing Subsidy](/pdf/Clifford_Michael_Assignment5.html)
