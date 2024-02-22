@@ -18,10 +18,14 @@
 ---
 
 [Geospatial Risk Prediction of Vandalism and Criminal Mischief in Philadelphia](/pdf/HW4.html)
-<img src="images/mischief.PNG?raw=true"/>
+<img src="images/mischief.png?raw=true"/>
 
 ---
 
+[Boston's Emerald Necklace](https://arcg.is/48SOm)
+<img src="images/mischief.PNG?raw=true"/>
+
+---
 
 
 
